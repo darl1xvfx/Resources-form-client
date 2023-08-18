@@ -1,0 +1,9 @@
+<proplibs>
+	<library name='Com Build' resource-id='4fde1' version='3' />
+	<library name='Bush' resource-id='460af' version='5' />
+	<library name='Terrain' resource-id='b60f0' version='4' />
+	<library name='Promotion' resource-id='aa6bf' version='13' />
+	<library name='Passage' resource-id='d9873' version='3' />
+	<library name='Fence' resource-id='a337c' version='1' />
+	<library name='Industrial Elements' resource-id='149ec' version='1' />
+</proplibs>
