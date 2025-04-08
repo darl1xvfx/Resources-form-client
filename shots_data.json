@@ -273,7 +273,7 @@
     },
     {
       "has_wwd": true,
-      "reload": 1800,
+      "reload": 500,
       "max_damage_radius": 50.0,
       "min_damage_percent": 20.0,
       "min_damage_radius": 100.0,
