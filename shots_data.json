@@ -1,0 +1,936 @@
+{
+  "weapons": [
+    {
+      "has_wwd": true,
+      "reload": 8000,
+      "max_damage_radius": 6.19,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 19.16,
+      "num_rays_up": 0,
+      "id": "flamethrower_m2",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "cooling_speed": 166,
+        "heating_speed": 200,
+        "target_detection_interval": 250,
+        "heat_limit": 1000,
+        "cone_angle": 0.349066,
+        "range": 19.2
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 8000,
+      "max_damage_radius": 6.8,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 21.6,
+      "num_rays_up": 0,
+      "id": "flamethrower_m3",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "cooling_speed": 166,
+        "heating_speed": 200,
+        "target_detection_interval": 250,
+        "heat_limit": 1000,
+        "cone_angle": 0.349066,
+        "range": 21.7
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 8000,
+      "max_damage_radius": 4.0,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 14.9,
+      "num_rays_up": 0,
+      "id": "flamethrower_m0",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "cooling_speed": 166,
+        "heating_speed": 200,
+        "target_detection_interval": 250,
+        "heat_limit": 1000,
+        "cone_angle": 0.349066,
+        "range": 15.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 8000,
+      "max_damage_radius": 4.72,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 16.4,
+      "num_rays_up": 0,
+      "id": "flamethrower_m1",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "cooling_speed": 166,
+        "heating_speed": 200,
+        "target_detection_interval": 250,
+        "heat_limit": 1000,
+        "cone_angle": 0.349066,
+        "range": 16.5
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 0,
+      "max_damage_radius": 79.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 158.0,
+      "num_rays_up": 73,
+      "id": "vulcan_m3",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "energyDischargeSpeed": 145,
+        "damageTickMsec": 125,
+        "recoilForce": 241000,
+        "impactForce": 241000,
+        "weaponTickMsec": 125,
+        "energyCapacity": 1000,
+        "spinDownTime": 1000,
+        "weaponTurnDecelerationCoeff": 0.5,
+        "energyRechargeSpeed": 1000,
+        "spinUpTime": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 0,
+      "max_damage_radius": 71.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 142.0,
+      "num_rays_up": 73,
+      "id": "vulcan_m2",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "energyDischargeSpeed": 161,
+        "damageTickMsec": 125,
+        "recoilForce": 167000,
+        "impactForce": 167000,
+        "weaponTickMsec": 125,
+        "energyCapacity": 1000,
+        "spinDownTime": 1000,
+        "weaponTurnDecelerationCoeff": 0.5,
+        "energyRechargeSpeed": 1000,
+        "spinUpTime": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 0,
+      "max_damage_radius": 67.5,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 135.0,
+      "num_rays_up": 73,
+      "id": "vulcan_m1",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "energyDischargeSpeed": 172,
+        "damageTickMsec": 125,
+        "recoilForce": 130000,
+        "impactForce": 130000,
+        "weaponTickMsec": 125,
+        "energyCapacity": 1000,
+        "spinDownTime": 1000,
+        "weaponTurnDecelerationCoeff": 0.5,
+        "energyRechargeSpeed": 1000,
+        "spinUpTime": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 1702,
+      "max_damage_radius": 54.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 109.0,
+      "num_rays_up": 73,
+      "id": "smoky_m1",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": true,
+      "reload": 1553,
+      "max_damage_radius": 62.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 124.0,
+      "num_rays_up": 73,
+      "id": "smoky_m2",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": true,
+      "reload": 1489,
+      "max_damage_radius": 65.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 130.0,
+      "num_rays_up": 73,
+      "id": "smoky_m3",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": true,
+      "reload": 300,
+      "max_damage_radius": 50.29,
+      "min_damage_percent": 15.0,
+      "min_damage_radius": 60.29,
+      "num_rays_up": 73,
+      "id": "shotgun_m3",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "reloadTime": 100,
+        "coneHorizontalAngle": 0.122173,
+        "magazineSize": 2,
+        "pelletCount": 21,
+        "coneVerticalAngle": 0.0872665,
+        "magazineReloadTime": 4235
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2129,
+      "max_damage_radius": 45.59,
+      "min_damage_percent": 15.0,
+      "min_damage_radius": 55.59,
+      "num_rays_up": 73,
+      "id": "shotgun_m2",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "reloadTime": 2129,
+        "coneHorizontalAngle": 0.122173,
+        "magazineSize": 3,
+        "pelletCount": 21,
+        "coneVerticalAngle": 0.0872665,
+        "magazineReloadTime": 4471
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2274,
+      "max_damage_radius": 41.47,
+      "min_damage_percent": 15.0,
+      "min_damage_radius": 51.47,
+      "num_rays_up": 73,
+      "id": "shotgun_m1",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "reloadTime": 2274,
+        "coneHorizontalAngle": 0.122173,
+        "magazineSize": 3,
+        "pelletCount": 21,
+        "coneVerticalAngle": 0.0872665,
+        "magazineReloadTime": 4676
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2500,
+      "max_damage_radius": 35.0,
+      "min_damage_percent": 15.0,
+      "min_damage_radius": 45.0,
+      "num_rays_up": 73,
+      "id": "shotgun_m0",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "reloadTime": 2500,
+        "coneHorizontalAngle": 0.122173,
+        "magazineSize": 3,
+        "pelletCount": 21,
+        "coneVerticalAngle": 0.0872665,
+        "magazineReloadTime": 5000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 1800,
+      "max_damage_radius": 50.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 100.0,
+      "num_rays_up": 73,
+      "id": "smoky_m0",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": true,
+      "reload": 680,
+      "max_damage_radius": 100.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 55.0,
+      "num_rays_up": 88,
+      "id": "snowman_m0",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.03,
+        "shot_speed": 35.0,
+        "shot_range": 55.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 640,
+      "max_damage_radius": 100.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 60.0,
+      "num_rays_up": 88,
+      "id": "snowman_m1",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.03,
+        "shot_speed": 38.0,
+        "shot_range": 60.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 600,
+      "max_damage_radius": 100.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 65.0,
+      "num_rays_up": 88,
+      "id": "snowman_m2",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.03,
+        "shot_speed": 39.0,
+        "shot_range": 65.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 620,
+      "max_damage_radius": 100.0,
+      "min_damage_percent": 20.0,
+      "min_damage_radius": 69.0,
+      "num_rays_up": 88,
+      "id": "snowman_m3",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.03,
+        "shot_speed": 41.0,
+        "shot_range": 69.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 550,
+      "max_damage_radius": 72.9,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 92.9,
+      "num_rays_up": 134,
+      "id": "ricochet_m3",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 204,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shotDistance": 92.9,
+        "energyPerShot": 114,
+        "shotSpeed": 158.8,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 100.0,
+        "shotRadius": 1.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 624,
+      "max_damage_radius": 58.9,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 78.9,
+      "num_rays_up": 134,
+      "id": "ricochet_m1",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 204,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shotDistance": 79.7,
+        "energyPerShot": 121,
+        "shotSpeed": 118.0,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 100.0,
+        "shotRadius": 1.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 600,
+      "max_damage_radius": 65.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 85.0,
+      "num_rays_up": 134,
+      "id": "ricochet_m2",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 204,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shotDistance": 85.0,
+        "energyPerShot": 118,
+        "shotSpeed": 132.6,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 100.0,
+        "shotRadius": 1.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 700,
+      "max_damage_radius": 50.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 70.0,
+      "num_rays_up": 134,
+      "id": "ricochet_m0",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 204,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shotDistance": 70.0,
+        "energyPerShot": 126,
+        "shotSpeed": 90.0,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 100.0,
+        "shotRadius": 1.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2000,
+      "max_damage_radius": 50.0,
+      "min_damage_percent": 50.0,
+      "min_damage_radius": 100.0,
+      "num_rays_up": 56,
+      "id": "shaft_m0",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {
+        "minimum_fov": 0.698132,
+        "inital_fov": 0.349066,
+        "max_energy": 1000.0,
+        "elevation_angle_up": 0.122173,
+        "shrubs_hiding_radius_max": 8000.0,
+        "discharge_rate": 270.0,
+        "shrubs_hiding_radius_min": 2000.0,
+        "elevation_angle_down": -0.174533,
+        "horizontal_targeting_speed": 0.174533,
+        "charge_rate": 100.0,
+        "vertical_targeting_speed": 0.174533
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 1900,
+      "max_damage_radius": 55.3,
+      "min_damage_percent": 50.0,
+      "min_damage_radius": 110.6,
+      "num_rays_up": 56,
+      "id": "shaft_m1",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {
+        "minimum_fov": 0.698132,
+        "inital_fov": 0.349066,
+        "max_energy": 1000.0,
+        "elevation_angle_up": 0.122173,
+        "shrubs_hiding_radius_max": 8000.0,
+        "discharge_rate": 268.0,
+        "shrubs_hiding_radius_min": 2000.0,
+        "elevation_angle_down": -0.174533,
+        "horizontal_targeting_speed": 0.209439,
+        "charge_rate": 106.62,
+        "vertical_targeting_speed": 0.209439
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 1750,
+      "max_damage_radius": 61.2,
+      "min_damage_percent": 50.0,
+      "min_damage_radius": 122.4,
+      "num_rays_up": 56,
+      "id": "shaft_m2",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {
+        "minimum_fov": 0.698132,
+        "inital_fov": 0.349066,
+        "max_energy": 1000.0,
+        "elevation_angle_up": 0.122173,
+        "shrubs_hiding_radius_max": 8000.0,
+        "discharge_rate": 265.0,
+        "shrubs_hiding_radius_min": 2000.0,
+        "elevation_angle_down": -0.174533,
+        "horizontal_targeting_speed": 0.2617994,
+        "charge_rate": 114.0,
+        "vertical_targeting_speed": 0.2617994
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 1600,
+      "max_damage_radius": 65.3,
+      "min_damage_percent": 50.0,
+      "min_damage_radius": 130.6,
+      "num_rays_up": 56,
+      "id": "shaft_m3",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {
+        "minimum_fov": 0.698132,
+        "inital_fov": 0.349066,
+        "max_energy": 1000.0,
+        "elevation_angle_up": 0.122173,
+        "shrubs_hiding_radius_max": 8000.0,
+        "discharge_rate": 262.0,
+        "shrubs_hiding_radius_min": 2000.0,
+        "elevation_angle_down": -0.174533,
+        "horizontal_targeting_speed": 0.296706,
+        "charge_rate": 119.12,
+        "vertical_targeting_speed": 0.296706
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 10000,
+      "max_damage_radius": 6.8,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 21.6,
+      "num_rays_up": 0,
+      "id": "frezee_m3",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "energyDischargeSpeed": 125,
+        "damageAreaRange": 21.7,
+        "damageAreaConeAngle": 0.349066,
+        "weaponTickMsec": 250,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 125
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 3000,
+      "max_damage_radius": 50.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 100.0,
+      "num_rays_up": 73,
+      "id": "thunder_m0",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "minSplashDamageRadius": 12.0,
+        "impactForce": 1.6,
+        "maxSplashDamageRadius": 1.0,
+        "minSplashDamagePercent": 25.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2732,
+      "max_damage_radius": 57.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 115.0,
+      "num_rays_up": 73,
+      "id": "thunder_m1",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "minSplashDamageRadius": 12.0,
+        "impactForce": 2.28,
+        "maxSplashDamageRadius": 1.0,
+        "minSplashDamagePercent": 25.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 10000,
+      "max_damage_radius": 4.0,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 14.9,
+      "num_rays_up": 0,
+      "id": "frezee_m0",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "energyDischargeSpeed": 125,
+        "damageAreaRange": 15.0,
+        "damageAreaConeAngle": 0.349066,
+        "weaponTickMsec": 250,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 125
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 10000,
+      "max_damage_radius": 5.57,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 18.1,
+      "num_rays_up": 0,
+      "id": "frezee_m2",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "energyDischargeSpeed": 125,
+        "damageAreaRange": 18.2,
+        "damageAreaConeAngle": 0.349066,
+        "weaponTickMsec": 250,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 125
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 10000,
+      "max_damage_radius": 5.13,
+      "min_damage_percent": 0.0,
+      "min_damage_radius": 16.9,
+      "num_rays_up": 0,
+      "id": "frezee_m1",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "energyDischargeSpeed": 125,
+        "damageAreaRange": 16.9,
+        "damageAreaConeAngle": 0.349066,
+        "weaponTickMsec": 250,
+        "energyCapacity": 1000,
+        "energyRechargeSpeed": 125
+      }
+    },
+    {
+      "has_wwd": false,
+      "reload": 3620,
+      "num_rays_up": 56,
+      "id": "railgun_m2",
+      "auto_aiming_down": 0.122173,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.0872665,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 3135,
+      "num_rays_up": 56,
+      "id": "railgun_m3",
+      "auto_aiming_down": 0.122173,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.0872665,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 4500,
+      "num_rays_up": 56,
+      "id": "railgun_m0",
+      "auto_aiming_down": 0.122173,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.0872665,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 3962,
+      "num_rays_up": 56,
+      "id": "railgun_m1",
+      "auto_aiming_down": 0.122173,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.0872665,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 3750,
+      "num_rays_up": 56,
+      "id": "terminator_m1",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 3500,
+      "num_rays_up": 56,
+      "id": "terminator_m2",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 3250,
+      "num_rays_up": 56,
+      "id": "terminator_m3",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 4250,
+      "num_rays_up": 56,
+      "id": "terminator_m0",
+      "auto_aiming_down": 0.174533,
+      "num_rays_down": 81,
+      "auto_aiming_up": 0.122173,
+      "special_entity": {}
+    },
+    {
+      "has_wwd": false,
+      "reload": 1000,
+      "num_rays_up": 0,
+      "id": "isida_m1",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "dischargeHealingRate": 100,
+        "chargeRate": 91,
+        "coneAngle": 0.35,
+        "dischargeDamageRate": 166,
+        "radius": 16.32,
+        "tickPeriod": 250,
+        "dischargeIdleRate": 50,
+        "capacity": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 273,
+      "max_damage_radius": 41.82,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 82.3,
+      "num_rays_up": 88,
+      "id": "twins_m3",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.0,
+        "shot_speed": 75.29,
+        "shot_range": 75.29
+      }
+    },
+    {
+      "has_wwd": false,
+      "reload": 1000,
+      "num_rays_up": 0,
+      "id": "isida_m0",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "dischargeHealingRate": 100,
+        "chargeRate": 91,
+        "coneAngle": 0.35,
+        "dischargeDamageRate": 166,
+        "radius": 15.0,
+        "tickPeriod": 250,
+        "dischargeIdleRate": 50,
+        "capacity": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 307,
+      "max_damage_radius": 34.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 68.0,
+      "num_rays_up": 88,
+      "id": "twins_m1",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.0,
+        "shot_speed": 67.65,
+        "shot_range": 67.65
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 289,
+      "max_damage_radius": 37.5,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 75.0,
+      "num_rays_up": 88,
+      "id": "twins_m2",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.0,
+        "shot_speed": 71.76,
+        "shot_range": 71.76
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 330,
+      "max_damage_radius": 30.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 60.0,
+      "num_rays_up": 88,
+      "id": "twins_m0",
+      "auto_aiming_down": 0.244346,
+      "num_rays_down": 112,
+      "auto_aiming_up": 0.191986,
+      "special_entity": {
+        "shot_radius": 1.0,
+        "shot_speed": 60.0,
+        "shot_range": 60.0
+      }
+    },
+    {
+      "has_wwd": false,
+      "reload": 1000,
+      "num_rays_up": 0,
+      "id": "isida_m3",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "dischargeHealingRate": 100,
+        "chargeRate": 91,
+        "coneAngle": 0.35,
+        "dischargeDamageRate": 166,
+        "radius": 18.82,
+        "tickPeriod": 250,
+        "dischargeIdleRate": 50,
+        "capacity": 1000
+      }
+    },
+    {
+      "has_wwd": false,
+      "reload": 1000,
+      "num_rays_up": 0,
+      "id": "isida_m2",
+      "auto_aiming_down": 0.0,
+      "num_rays_down": 0,
+      "auto_aiming_up": 0.0,
+      "special_entity": {
+        "dischargeHealingRate": 100,
+        "chargeRate": 91,
+        "coneAngle": 0.35,
+        "dischargeDamageRate": 166,
+        "radius": 17.2,
+        "tickPeriod": 250,
+        "dischargeIdleRate": 50,
+        "capacity": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 0,
+      "max_damage_radius": 60.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 120.0,
+      "num_rays_up": 73,
+      "id": "vulcan_m0",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "energyDischargeSpeed": 200,
+        "damageTickMsec": 125,
+        "recoilForce": 50000,
+        "impactForce": 50000,
+        "weaponTickMsec": 125,
+        "energyCapacity": 1000,
+        "spinDownTime": 1000,
+        "weaponTurnDecelerationCoeff": 0.5,
+        "energyRechargeSpeed": 1000,
+        "spinUpTime": 1000
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2629,
+      "max_damage_radius": 60.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 121.0,
+      "num_rays_up": 73,
+      "id": "thunder_m2",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "minSplashDamageRadius": 12.0,
+        "impactForce": 2.55,
+        "maxSplashDamageRadius": 1.0,
+        "minSplashDamagePercent": 25.0
+      }
+    },
+    {
+      "has_wwd": true,
+      "reload": 2435,
+      "max_damage_radius": 65.0,
+      "min_damage_percent": 25.0,
+      "min_damage_radius": 130.0,
+      "num_rays_up": 73,
+      "id": "thunder_m3",
+      "auto_aiming_down": 0.20944,
+      "num_rays_down": 97,
+      "auto_aiming_up": 0.15708,
+      "special_entity": {
+        "minSplashDamageRadius": 12.0,
+        "impactForce": 2.97,
+        "maxSplashDamageRadius": 1.0,
+        "minSplashDamagePercent": 25.0
+      }
+    }
+  ]
+}
